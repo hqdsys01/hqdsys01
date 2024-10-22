@@ -28,7 +28,7 @@
 - [**Project 3**: Infrastructure as Code with Terraform](#)
 
 ### 📫 **Let's Connect**:
-- [LinkedIn]([#](https://www.linkedin.com/in/henriquequeirozz/))  
-- [Email]([#](mailto:hqdsys01.it@gmail.com))
+- [LinkedIn](https://www.linkedin.com/in/henriquequeirozz/)
+- [Email](mailto:hqdsys01.it@gmail.com)
 
 Check out my repositories and feel free to contribute or ask questions! I’m always eager to learn from others in the community.
