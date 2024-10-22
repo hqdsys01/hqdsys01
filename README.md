@@ -23,9 +23,7 @@
 - **Monitoring Tools**: Prometheus, Grafana, Zabbix
 
 ### 🌟 **GitHub Projects:**
-- [**Project 1**: CI/CD Automation](#)  
-- [**Project 2**: Dockerized Web App](#)  
-- [**Project 3**: Infrastructure as Code with Terraform](#)
+- [**Project 1** InfraTech: SysAdmin Essentials](#)
 
 ### 📫 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/henriquequeirozz/)
