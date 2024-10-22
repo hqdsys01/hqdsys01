@@ -23,7 +23,7 @@
 - **Monitoring Tools**: Prometheus, Grafana, Zabbix
 
 ### 🌟 **GitHub Projects:**
-- [**Project 1** InfraTech: SysAdmin Essentials](#)
+- [**Project 1** InfraTech: SysAdmin Essentials](https://github.com/hqdsys01/infratech-sysadmin-essentials)
 
 ### 📫 **Let's Connect**:
 - [LinkedIn](https://www.linkedin.com/in/henriquequeirozz/)
